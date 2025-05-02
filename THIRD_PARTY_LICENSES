@@ -1,0 +1,6 @@
+This software uses the following third-party libraries:
+
+- DiscordRichPresence (https://github.com/Lachee/discord-rpc-csharp)
+  Licensed under the MIT License.
+  Copyright (c) Lachee
+  https://github.com/Lachee/discord-rpc-csharp/blob/master/LICENSE
