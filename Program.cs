@@ -5,7 +5,7 @@ namespace Foobar_RPC
 {
     internal class Program
     {
-        private static readonly DiscordRpcClient Client = new("1277600550233309204");
+        private static readonly DiscordRpcClient Client = new("1277600550233309204"); // SAMPLE CLIENT ID! REPLACE THIS TO YOUR CLIENT ID!
 
         private static void Main()
         {
